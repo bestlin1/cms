@@ -1,0 +1,9 @@
+baseUrl: '@web'
+enabled: true
+handle: english
+hasUrls: true
+language: en
+name: English
+primary: true
+siteGroup: fd05975e-1963-4ddd-8f7b-57678dbe0ac6 # $CRAFT_SITE_NAME
+sortOrder: 1
